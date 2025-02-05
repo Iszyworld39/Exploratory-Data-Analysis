@@ -36,4 +36,4 @@ The analysis covers:
 
 ## Dataset Source
 
-The dataset used for this project was provided by Elite Global Intelligence Technologies (EGIT Global AI) - https://www.eliteglobalai.com
+The dataset used for this project was provided by Elite Global Intelligence Technologies (Elite Global AI) - https://www.eliteglobalai.com
