@@ -34,4 +34,6 @@ The analysis covers:
 * Use Microsoft Excel or Google Sheets to analyze the data, clean missing values, and generate insights.
 * Create visualizations using built-in chart tools to explore patterns and relationships within the dataset
 
-## 
+## Dataset Source
+
+The dataset used for this project was provided by Elite Global Intelligence Technologies (EGIT Global AI) - https://www.eliteglobalai.com
